@@ -17,7 +17,7 @@ Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn inn
 Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLite
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marisolos&layout=compact&theme=dark)
-<img src="https://profile-counter.glitch.me/Marisolos/count.svg" /> 
+![Profile views](https://komarev.com/ghpvc/?username=Marisolos&color=orange)
 
 
 ---
