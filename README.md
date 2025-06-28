@@ -17,7 +17,6 @@ Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn inn
 Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLite
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marisolos&layout=compact&theme=dark)
-![Profile views](https://komarev.com/ghpvc/?username=Marisolos&color=orange)
 
 
 ---
@@ -28,8 +27,8 @@ My name is Mari, and I'm a curious and motivated developer with a background in 
 
 ## 📌 Projects
 
-- 🎓 **School project** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript. Focused on usability and functionality.
-- 🛠 **Personal project** – Streamlit-based case processing simulator with SQLite backend, Python rule engine, dynamic filtering, statistics, and CSV export.
+-  **School project** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript. Focused on usability and functionality.
+-  **Personal project** – Streamlit-based case processing simulator with SQLite backend, Python rule engine, dynamic filtering, statistics, and CSV export.
 
 ## Education
 
@@ -41,4 +40,4 @@ My name is Mari, and I'm a curious and motivated developer with a background in 
 Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLite
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=Marisolos&color=orange)
