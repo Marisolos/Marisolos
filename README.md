@@ -1,6 +1,6 @@
 # Heisann 👋
 
-Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn innen historie og IT og ledelse. 
+Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn innen historie og IT og ledelse fra USN. 
 
 ## 📌 Prosjekter
 
@@ -16,12 +16,14 @@ Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn inn
 
 Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLite
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marisolos&layout=compact&theme=dark)
+
 
 ---
 
 # Hello 👋
 
-My name is Mari, and I'm a curious and motivated developer with a background in history and IT.
+My name is Mari, and I'm a curious and motivated developer with a background in history and IT from USN. 
 
 ## 📌 Projects
 
