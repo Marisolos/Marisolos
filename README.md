@@ -5,7 +5,7 @@ Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn inn
 ## 📌 Prosjekter
 
 - **Skoleprosjekt** – En webapplikasjon utviklet med **Vue.js** og **Firebase**, samt litt HTML, CSS og JavaScript. Fokus på enkel brukeropplevelse og funksjonalitet.
-- **Personlig prosjekt** – Et backend-prosjekt laget med **Python 3.x**, **SQLAlchemy** og **SQLite**, med mål om å lære mer om datamodellering og databasehåndtering.
+- **Personlig prosjekt** – Streamlit-basert saksbehandlingssimulator med SQLite-backend, regelmotor i Python og dynamisk filtrering, statistikk og CSV-eksport.
 
 ## Utdanning
 
@@ -17,6 +17,7 @@ Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn inn
 Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLite
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marisolos&layout=compact&theme=dark)
+![Visitor Count](https://count.getloli.com/get/@Marisolos?theme=rule34)
 
 
 ---
@@ -28,7 +29,7 @@ My name is Mari, and I'm a curious and motivated developer with a background in 
 ## 📌 Projects
 
 - 🎓 **School project** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript. Focused on usability and functionality.
-- 🛠 **Personal project** – A backend project using **Python 3.x**, **SQLAlchemy**, and **SQLite**, aimed at deepening my understanding of data modeling and database handling.
+- 🛠 **Personal project** – Streamlit-based case processing simulator with SQLite backend, Python rule engine, dynamic filtering, statistics, and CSV export.
 
 ## Education
 
