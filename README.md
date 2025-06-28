@@ -1,4 +1,4 @@
-# Hei, og velkommen til profilen min 👋
+# Heisann 👋
 
 Jeg heter Mari, og jeg er en nysgjerrig og lærevillig utvikler med bakgrunn innen historie og IT og ledelse. 
 
@@ -24,7 +24,7 @@ Vue.js · Firebase · HTML · CSS · JavaScript · Python · SQLAlchemy · SQLit
 
 ---
 
-# Hello, and welcome to my profile 👋
+# Hello 👋
 
 My name is Mari, and I'm a curious and motivated developer with a background in history and IT.
 
