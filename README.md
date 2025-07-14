@@ -1,7 +1,7 @@
 
-# Hello 👋
+# Hi 👋
 
-I'm here to learn! Former IT and management student, my goal is to keep up with coding while doing my masters in digital transformation. These are my projects so far:
+My goal is to keep up with coding while doing my masters in digital transformation. These are my projects so far:
 
 -  **Uni project** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript. 
 -  **Personal project** – Streamlit-based case processing simulator with SQLite backend, Python rule engine, dynamic filtering, statistics, and CSV export.
