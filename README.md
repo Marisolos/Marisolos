@@ -5,13 +5,13 @@ My goal is to keep up with coding while doing my masters in digital transformati
 
 Uni projects - IT and management studies (bachelor level):
 -  **[Parking app](https://github.com/Marisolos/APP200v-Team-08)** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript.
--  **[Media Streaming App](https://github.com/agyCoding/Objetorientert-Analyse-Design)** – A java app made for streaming media, I was responsible for parts of the system architecture and documentation for this project.
+-  **[Media Streaming App](https://github.com/agyCoding/Objetorientert-Analyse-Design)** – A **Java** application for streaming media. I contributed to the system architecture and project documentation.
 
 Uni projects - Digital Transformation (master level):
--  **[Data but make it everything IT](https://github.com/Marisolos/DataButMakeitEverythingIT)** – Inspired by DataButMakeItFashion - this is made to find trends in the information systems field, made for the course Emerging Trends in Information Systems IN PROGRESS
+-  **[Data but make it everything IT](https://github.com/Marisolos/DataButMakeitEverythingIT)** – Inspired by DataButMakeItFashion. A project in progress using **Python** to identify trends in the information systems field. Developed for the course _Emerging Trends in Information Systems_.
 
 Other projects:
--  **[Case Processing Simulator](https://github.com/Marisolos/saksbehandlingssimulator)** – Streamlit-based case processing simulator with SQLite backend, Python rule engine, dynamic filtering, statistics, and CSV export.
+-  **[Case Processing Simulator](https://github.com/Marisolos/saksbehandlingssimulator)** – Streamlit-based case processing simulator with **SQLite** backend, **Python** rule engine, dynamic filtering, statistics, and CSV export.
 -  **Travel** - A travelling website
 
 ## 📬 Contact
