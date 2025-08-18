@@ -3,11 +3,11 @@
 
 My goal is to keep up with coding while doing my masters in digital transformation. These are my projects so far:
 
-Uni projects - IT and management studies (bachelor level):
+Uni projects - IT and management studies (bachelor courses):
 -  **[Parking app](https://github.com/Marisolos/APP200v-Team-08)** – A web application built with **Vue.js** and **Firebase**, with some HTML, CSS, and JavaScript.
 -  **[Media Streaming App](https://github.com/agyCoding/Objetorientert-Analyse-Design)** – A **Java** application for streaming media. I contributed to the system architecture and project documentation.
 
-Uni projects - Digital Transformation (master level):
+Uni projects - Digital Transformation (master course):
 -  **[Data but make it everything IT](https://github.com/Marisolos/DataButMakeitEverythingIT)** – A project (in progress) using **Python** to identify trends in the information systems field. Developed for the course _Emerging Trends in Information Systems_.
 
 Other projects:
