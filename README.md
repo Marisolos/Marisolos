@@ -8,7 +8,7 @@ Uni projects - IT and management studies (bachelor courses):
 -  **[Media Streaming App](https://github.com/agyCoding/Objetorientert-Analyse-Design)** – A **Java** application for streaming media. I contributed to the system architecture and project documentation.
 
 Uni projects - Digital Transformation (master course):
--  **[Data but make it everything IT](https://github.com/Marisolos/DataButMakeitEverythingIT)** – A project (in progress) using **Python** to identify trends in the information systems field. Developed for the course _Emerging Trends in Information Systems_.
+-  **[Data but make it everything IT](https://github.com/Marisolos/DataButMakeitEverythingIT)** – A project (in progress) using **Python** to identify trends in the information systems field. Inspired by [Data, but make it fashion](https://www.databutmakeitfashion.com/)
 
 Other projects:
 -  **[Case Processing Simulator](https://github.com/Marisolos/saksbehandlingssimulator)** – Streamlit-based case processing simulator with **SQLite** backend, **Python** rule engine, dynamic filtering, statistics, and CSV export.
